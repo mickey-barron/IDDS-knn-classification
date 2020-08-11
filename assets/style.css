@@ -1,0 +1,164 @@
+:root{
+    --mdc-theme-primary: #494a99;
+    --mdc-theme-secondary: #494a99;
+    --mdc-theme-background: #f7f7f7;
+    --mdc-theme-surface: #fff;
+}
+
+*{
+    font-family: 'Roboto', sans-serif;
+    margin:0;
+}
+
+h3{
+    color: var(--mdc-theme-primary);
+    padding-bottom: 20px;
+}
+
+h3 .material-icons{
+    padding-right: 10px;
+    position:relative;
+    top: 5px;
+}
+
+.controlPanel .material-icons{
+    position:relative;
+    top: 5px;
+}
+
+body{
+
+    background-color: var(--mdc-theme-background);
+
+}
+
+.container.main{
+    display:flex;
+    flex-direction:column;
+    padding: 40px;
+    padding-bottom: 0;
+    width: calc(100% - 80px);
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.wrapper{
+    width: calc(100% - 255px);
+    top: 64px;
+    position:relative;
+    left: 255px;
+}
+
+.card{
+    padding: 20px;
+    border-radius: 10px;
+    background-color: var(--mdc-theme-surface);
+    margin-bottom:20px;
+}
+
+.fillWidth{
+    width: 100%;
+}
+
+.mdc-layout-grid{
+    padding-top:100px;
+}
+
+aside{
+    position:fixed;
+    top:64px;
+
+}
+
+.mdc-drawer__content{
+    padding: 20px;
+}
+
+.mdc-drawer__content > *{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+.accentText{
+    text-align:center;
+}
+
+#fileUpload{
+    position:relative;
+}
+
+#fileUpload input{
+    position: absolute;
+    top: 0;
+    right: 0; /* not left, because only the right part of the input seems to
+                 be clickable in some browser I can't remember */
+    cursor: pointer;
+    opacity: 0.0;
+    filter: alpha(opacity=0); /* and all the other old opacity stuff you
+                                 want to support */
+    font-size: 300px; /* wtf, but apparently the most reliable way to make
+                         a large part of the input clickable in most browsers */
+    height: 100%;
+    z-index:5;
+}
+
+aside p{
+    word-break: break-all;
+}
+
+.tableContainer{
+    min-height: 100px;
+    overflow-x:auto;
+    max-height: 450px;
+    position:relative;
+}
+
+table{
+    background-color: var(--mdc-theme-surface);
+
+}
+
+th{
+    position:sticky;
+    top: 0;
+    background-color: var(--mdc-theme-surface);
+}
+
+.controlPanel{
+    display:flex;
+    flex-direction:column;
+    width: 25%;
+}
+
+.controlPanel.expanded{
+    width: 35%;
+}
+.controlPanel > *{
+    margin: 10px;
+}
+.columns{
+    display:flex;
+    flex-direction:row;
+    justify-content: space-around;
+}
+.plotWrapper{
+    width: 65%;
+    margin-left:auto;
+    height:450px;
+}
+
+.progress{
+    width: 55%;
+}
+.progress > *{
+    margin: 10px;
+    margin-bottom: 20px;
+
+}
+.columns p .material-icons{
+    position:relative;
+    top: 5px;
+    padding-left: 5px;
+}

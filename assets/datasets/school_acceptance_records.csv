@@ -1,0 +1,501 @@
+applicant_id,gpa,extracurricular_quantity,letter_of_rec_quantity,major,decision
+1005055,3.207318765,5,3,mathematics,accepted
+1005312,3.275043424,5,4,sociology,accepted
+1005155,2.629428176,6,4,chemistry,accepted
+1005154,3.168654202,4,4,sociology,accepted
+1005323,3.628519833,3,3,psychology,accepted
+1005148,3.892080492,6,2,business,accepted
+1005147,2.70167274,6,3,mathematics,accepted
+1005332,3.085138503,5,4,sociology,accepted
+1005144,3.095006072,4,4,psychology,accepted
+1005143,3.324899941,2,4,mathematics,accepted
+1005141,3.299124245,4,4,psychology,accepted
+1005139,3.660315964,4,3,english,accepted
+1005340,3.599489821,4,4,english,accepted
+1005135,3.33632582,3,4,performing arts,accepted
+1005349,3.934810834,5,2,english,accepted
+1005133,3.129779546,6,4,business,accepted
+1005207,2.981076538,5,4,education,accepted
+1005128,4,3,4,psychology,accepted
+1005365,3.455264013,2,4,psychology,accepted
+1005383,2.608876666,6,4,english,accepted
+1005388,3.782446695,6,4,chemistry,accepted
+1005389,4,6,4,sociology,accepted
+1005400,2.732243175,6,4,biology,accepted
+1005412,3.759016812,6,2,performing arts,accepted
+1005310,3.116261424,3,4,mathematics,accepted
+1005307,3.298851862,4,3,chemistry,accepted
+1005306,4,6,3,performing arts,accepted
+1005294,3.418953375,5,2,chemistry,accepted
+1005208,3.555141152,2,4,biology,accepted
+1005200,3.523774456,3,4,mathematics,accepted
+1005217,3.805849449,4,4,performing arts,accepted
+1005220,3.40857641,5,3,mathematics,accepted
+1005197,3.655548742,6,3,performing arts,accepted
+1005225,3.541076172,6,2,sociology,accepted
+1005230,3.981391052,5,4,mathematics,accepted
+1005233,3.500403576,5,4,psychology,accepted
+1005188,3.476303159,3,4,business,accepted
+1005245,3.451278346,4,4,sociology,accepted
+1005184,3.429848278,5,4,performing arts,accepted
+1005415,3.834287581,5,3,biology,accepted
+1005252,3.581285705,5,4,business,accepted
+1005257,3.225186256,6,3,psychology,accepted
+1005261,3.089135203,5,3,chemistry,accepted
+1005262,3.599631478,4,3,chemistry,accepted
+1005270,2.863128131,6,4,business,accepted
+1005172,3.537990216,4,3,chemistry,accepted
+1005277,2.730591478,6,3,mathematics,accepted
+1005281,3.396723781,6,3,chemistry,accepted
+1005284,2.957661747,6,4,biology,accepted
+1005168,4,0,4,psychology,accepted
+1005285,3.678772157,5,3,education,accepted
+1005286,3.531575683,6,2,chemistry,accepted
+1005254,3.240984594,5,3,sociology,accepted
+1005420,2.813228571,3,4,chemistry,accepted
+1005356,3.765086703,2,3,psychology,accepted
+1005426,3.326920639,5,3,performing arts,accepted
+1005091,2.800813194,4,4,psychology,accepted
+1005480,4,4,3,sociology,accepted
+1005488,2.993945185,3,4,mathematics,accepted
+1005494,2.765924653,6,4,chemistry,accepted
+1005086,3.339290259,6,3,biology,accepted
+1005495,3.108829598,6,3,mathematics,accepted
+1005422,3.017301973,6,4,psychology,accepted
+1005496,3.490150579,6,3,english,accepted
+1005082,4,2,3,english,accepted
+1005498,3.878128733,5,4,chemistry,accepted
+1005080,2.934661388,6,3,chemistry,accepted
+1005501,3.588560159,6,3,biology,accepted
+1005471,3.25836541,1,4,chemistry,accepted
+1005515,3.916636421,2,4,chemistry,accepted
+1005520,2.950844287,5,4,mathematics,accepted
+1005071,3.435939085,4,3,education,accepted
+1005070,2.681752705,5,4,psychology,accepted
+1005530,3.201750341,4,4,education,accepted
+1005539,3.040984969,5,3,mathematics,accepted
+1005063,4,0,3,mathematics,accepted
+1005540,3.694417579,3,3,psychology,accepted
+1005541,2.840347606,6,4,biology,accepted
+1005544,3.555590468,3,4,performing arts,accepted
+1005546,3.213213083,1,4,chemistry,accepted
+1005547,2.752172445,6,4,psychology,accepted
+1005056,3.271003116,6,3,performing arts,accepted
+1005519,2.639088589,6,3,mathematics,accepted
+1005466,3.58205082,6,2,english,accepted
+1005084,3.373461955,4,4,education,accepted
+1005205,3.669223323,6,3,sociology,accepted
+1005463,3.204083338,6,4,biology,accepted
+1005437,3.21150173,4,4,business,accepted
+1005102,2.50112266,5,4,chemistry,accepted
+1005461,2.25855708,6,4,biology,accepted
+1005460,3.144869599,6,3,biology,accepted
+1005105,2.93878474,2,4,chemistry,accepted
+1005250,3.116156357,3,4,performing arts,deferred
+1005533,3.451235016,6,1,biology,deferred
+1005251,3.150138416,5,2,psychology,deferred
+1005526,3.05463744,6,2,performing arts,deferred
+1005528,2.400809423,6,3,biology,deferred
+1005537,3.553051935,4,2,english,deferred
+1005381,3.205187832,6,2,education,deferred
+1005264,2.913785475,3,4,business,deferred
+1005265,2.943895726,5,2,chemistry,deferred
+1005387,3.952748939,0,2,chemistry,deferred
+1005243,2.658784883,4,4,performing arts,deferred
+1005237,2.667868501,5,3,performing arts,deferred
+1005241,2.897488585,5,2,chemistry,deferred
+1005522,3.751253167,4,2,business,deferred
+1005235,2.680871055,5,2,chemistry,deferred
+1005231,3.099424849,5,2,psychology,deferred
+1005402,3.543590533,0,4,biology,deferred
+1005221,3.464339142,3,3,performing arts,deferred
+1005543,2.48217867,6,2,mathematics,deferred
+1005407,2.775559478,2,4,biology,deferred
+1005408,3.391844447,2,4,education,deferred
+1005430,3.563457716,4,2,biology,deferred
+1005211,3.589308888,3,2,psychology,deferred
+1005429,3.348400747,3,3,education,deferred
+1005440,3.62099017,5,2,business,deferred
+1005273,2.734853225,5,2,chemistry,deferred
+1005337,3.055134516,4,2,mathematics,deferred
+1005465,3.131111799,1,4,biology,deferred
+1005335,3.428781378,2,2,mathematics,deferred
+1005343,2.799264617,6,2,biology,deferred
+1005344,2.902606358,4,3,performing arts,deferred
+1005333,3.292754941,1,3,chemistry,deferred
+1005490,3.252136953,4,3,business,deferred
+1005457,3.289780009,4,3,business,deferred
+1005322,4,5,0,mathematics,deferred
+1005318,3.581299184,5,2,business,deferred
+1005317,2.824857824,3,4,biology,deferred
+1005315,2.130427799,6,4,education,deferred
+1005350,2.612029598,4,3,chemistry,deferred
+1005351,3.571958843,5,1,chemistry,deferred
+1005314,2.232095671,3,4,chemistry,deferred
+1005274,3.61077303,1,4,sociology,deferred
+1005355,2,4,4,chemistry,deferred
+1005453,2.888786828,6,2,biology,deferred
+1005364,3.861217647,4,2,performing arts,deferred
+1005303,3.264364087,1,4,performing arts,deferred
+1005300,3.66799453,6,0,psychology,deferred
+1005297,3.160710452,5,1,mathematics,deferred
+1005296,2.742849094,1,4,mathematics,deferred
+1005445,3.536869568,3,2,chemistry,deferred
+1005499,2.093969558,5,4,biology,deferred
+1005370,2.486521791,3,4,psychology,deferred
+1005503,3.34903915,3,4,business,deferred
+1005509,3.074178871,3,4,education,deferred
+1005372,3.627808106,2,4,business,deferred
+1005375,3.155344731,2,4,education,deferred
+1005456,3.761390721,4,1,chemistry,deferred
+1005377,2.745296862,6,3,education,deferred
+1005304,4,1,2,mathematics,deferred
+1005554,3.807744262,6,0,biology,deferred
+1005072,3.772355345,0,4,english,deferred
+1005129,3.054873388,6,2,performing arts,deferred
+1005130,3.043753235,2,4,psychology,deferred
+1005132,3.15293098,5,2,english,deferred
+1005160,2.932289978,5,2,psychology,deferred
+1005138,3.194399348,3,2,chemistry,deferred
+1005179,3.657253314,5,0,chemistry,deferred
+1005078,2.667472175,5,3,english,deferred
+1005079,3.287114447,2,4,performing arts,deferred
+1005087,3.263163012,5,1,mathematics,deferred
+1005111,2.944259157,1,4,mathematics,deferred
+1005173,2.964780461,1,4,biology,deferred
+1005170,2.812219254,3,4,english,deferred
+1005150,3.159848695,5,2,education,deferred
+1005167,3.350373448,1,4,performing arts,deferred
+1005090,3.310560038,1,4,psychology,deferred
+1005099,2.953787186,2,4,performing arts,deferred
+1005153,3.514652339,6,2,business,deferred
+1005165,2.851377174,4,3,biology,deferred
+1005164,3.300508811,0,4,mathematics,deferred
+1005158,3.419579161,0,4,english,deferred
+1005159,4,3,1,psychology,deferred
+1005101,3.552839244,1,3,psychology,deferred
+1005127,3.284612246,1,4,performing arts,deferred
+1005095,4,4,1,english,deferred
+1005123,3.660222304,3,2,biology,deferred
+1005198,3.334128715,6,2,education,deferred
+1005196,3.520648738,4,2,biology,deferred
+1005064,2.233831945,5,4,psychology,deferred
+1005195,2.585545475,2,4,mathematics,deferred
+1005451,2.999895065,2,2,biology,rejected
+1005116,3.103335179,0,1,psychology,rejected
+1005450,3.394836262,3,0,sociology,rejected
+1005401,3.196763604,4,0,mathematics,rejected
+1005449,2.730609013,3,1,psychology,rejected
+1005448,2,5,3,english,rejected
+1005446,2.723361811,1,1,psychology,rejected
+1005115,2.517371609,3,0,sociology,rejected
+1005444,2.763275114,1,0,education,rejected
+1005403,2.388677149,5,2,business,rejected
+1005443,3.35404488,0,1,chemistry,rejected
+1005442,3.082887242,3,3,performing arts,rejected
+1005447,3.647052282,5,0,education,rejected
+1005399,2.204647505,0,0,english,rejected
+1005112,2.722053354,2,2,chemistry,rejected
+1005452,3.194086146,0,1,biology,rejected
+1005392,2.494381653,0,2,psychology,rejected
+1005462,2.895444363,0,0,english,rejected
+1005096,3.132937909,1,1,english,rejected
+1005393,3.024506124,3,0,mathematics,rejected
+1005097,3.144517712,5,1,mathematics,rejected
+1005459,2.449452446,3,3,performing arts,rejected
+1005394,2.89484856,6,0,biology,rejected
+1005458,3.289739648,0,4,performing arts,rejected
+1005395,3.124551541,1,4,english,rejected
+1005098,2.572990675,1,0,education,rejected
+1005396,2.8767923,2,3,english,rejected
+1005397,2.230537655,2,1,biology,rejected
+1005455,2.83306321,3,2,english,rejected
+1005454,3.089578699,2,1,psychology,rejected
+1005100,3.743269172,1,1,sociology,rejected
+1005441,3.284262803,6,0,mathematics,rejected
+1005398,3.003833142,0,1,english,rejected
+1005439,2.684548871,4,2,chemistry,rejected
+1005411,3.630415237,4,1,biology,rejected
+1005413,2.779069664,0,2,sociology,rejected
+1005410,3.190927729,2,3,business,rejected
+1005414,4,0,3,business,rejected
+1005409,3.1281816,6,1,education,rejected
+1005416,2.948095818,2,2,biology,rejected
+1005417,3.68480947,2,1,education,rejected
+1005418,3.376461252,0,3,english,rejected
+1005113,3.19448253,3,1,business,rejected
+1005419,3.46036695,0,1,mathematics,rejected
+1005110,2.688762048,0,1,english,rejected
+1005114,3.650303266,4,0,performing arts,rejected
+1005406,2.597883745,4,1,education,rejected
+1005421,2.735404173,5,2,performing arts,rejected
+1005109,2,3,3,performing arts,rejected
+1005423,3.120015586,4,2,sociology,rejected
+1005424,2.364856738,1,4,psychology,rejected
+1005425,3.100223233,1,0,psychology,rejected
+1005438,2,3,2,education,rejected
+1005104,2.559136712,2,1,sociology,rejected
+1005436,2,2,2,performing arts,rejected
+1005435,2.65011717,1,1,english,rejected
+1005434,3.133026445,1,3,performing arts,rejected
+1005404,3.368857716,4,2,business,rejected
+1005103,2.914589364,2,1,sociology,rejected
+1005433,3.212910309,0,1,biology,rejected
+1005431,3.34737262,2,2,business,rejected
+1005405,3.011694602,2,2,biology,rejected
+1005107,2.84016391,0,2,performing arts,rejected
+1005428,3.305508982,5,1,performing arts,rejected
+1005427,3.805000467,4,1,performing arts,rejected
+1005108,2.249835124,5,2,biology,rejected
+1005432,2.666557887,1,4,performing arts,rejected
+1005106,2.270110023,1,4,chemistry,rejected
+1005092,2.680112553,4,3,sociology,rejected
+1005094,2.675636416,0,1,english,rejected
+1005067,2.930463833,5,1,business,rejected
+1005529,2.584208986,1,3,performing arts,rejected
+1005068,3.136020292,0,2,english,rejected
+1005527,3.224526292,0,2,english,rejected
+1005069,2.929754136,4,0,chemistry,rejected
+1005525,2.455187366,1,4,business,rejected
+1005524,2.838319243,1,0,business,rejected
+1005523,3.439131951,1,0,education,rejected
+1005521,3.196162678,2,3,education,rejected
+1005073,2.840285268,4,1,sociology,rejected
+1005074,2.837575491,4,3,education,rejected
+1005518,2.491394964,3,4,english,rejected
+1005517,3.18424204,2,1,biology,rejected
+1005516,2.625823679,3,4,education,rejected
+1005075,2.806299681,4,2,education,rejected
+1005514,3.017380928,5,0,psychology,rejected
+1005513,2.745087873,1,0,english,rejected
+1005531,3.548211803,1,1,psychology,rejected
+1005512,2.722644964,5,0,sociology,rejected
+1005532,2.601187358,1,2,education,rejected
+1005534,3.581390682,0,1,education,rejected
+1005552,2.979460399,4,0,business,rejected
+1005551,2.057265426,1,0,performing arts,rejected
+1005550,2.879156577,2,2,chemistry,rejected
+1005549,3.415510376,1,2,mathematics,rejected
+1005548,3.056525752,0,3,biology,rejected
+1005057,2.88951495,4,0,sociology,rejected
+1005058,3.332925931,2,2,biology,rejected
+1005545,2.207977603,6,3,english,rejected
+1005059,2.94926618,5,0,psychology,rejected
+1005060,3.524242294,4,0,biology,rejected
+1005542,3.217474736,4,2,business,rejected
+1005061,2.744593568,3,2,education,rejected
+1005062,2.758065243,1,1,biology,rejected
+1005538,4,4,0,performing arts,rejected
+1005065,2.208873617,2,4,psychology,rejected
+1005536,3.426162377,6,0,english,rejected
+1005535,3.009491204,1,3,education,rejected
+1005066,2.368444939,0,4,mathematics,rejected
+1005511,3.179641354,3,0,chemistry,rejected
+1005510,3.297285847,4,0,business,rejected
+1005076,2.551743731,2,4,psychology,rejected
+1005483,2.71677115,3,2,performing arts,rejected
+1005482,2.990056224,3,0,english,rejected
+1005481,2.704588106,5,1,education,rejected
+1005479,2.826641142,5,0,sociology,rejected
+1005478,2.976075802,6,0,biology,rejected
+1005477,2.612900633,0,3,mathematics,rejected
+1005476,2.198450246,4,0,sociology,rejected
+1005475,2.864176277,2,3,performing arts,rejected
+1005474,2.333601426,5,1,biology,rejected
+1005473,2.409331052,6,1,business,rejected
+1005472,2.813024104,4,1,performing arts,rejected
+1005391,3.117867486,5,2,english,rejected
+1005470,2.713662339,0,1,performing arts,rejected
+1005469,2.619437735,6,1,sociology,rejected
+1005468,3.694139766,1,0,chemistry,rejected
+1005467,3.627424448,6,0,psychology,rejected
+1005093,2.855454339,2,0,business,rejected
+1005484,2.7764532,4,1,education,rejected
+1005485,2.131369981,6,0,biology,rejected
+1005486,3.222509714,2,1,mathematics,rejected
+1005487,2.760371738,5,1,education,rejected
+1005508,3.109826217,3,0,psychology,rejected
+1005507,3.910241365,4,0,biology,rejected
+1005506,3.363949323,1,2,education,rejected
+1005505,2.065270955,0,4,sociology,rejected
+1005504,2.846392244,6,0,psychology,rejected
+1005077,3.416942639,0,0,sociology,rejected
+1005502,2.73136461,1,1,performing arts,rejected
+1005500,2.674343717,1,3,sociology,rejected
+1005464,3.272918443,1,1,sociology,rejected
+1005081,3.118386154,2,0,mathematics,rejected
+1005083,2.953113309,1,4,english,rejected
+1005085,2.727949114,0,3,psychology,rejected
+1005493,2.715175971,2,0,biology,rejected
+1005492,3.171794025,2,3,sociology,rejected
+1005491,2.089156292,6,3,english,rejected
+1005088,2.131176537,1,1,sociology,rejected
+1005489,2.008479975,4,0,business,rejected
+1005089,3.31767785,0,2,business,rejected
+1005497,3.30305805,1,0,chemistry,rejected
+1005390,3.08537938,2,3,education,rejected
+1005206,3.421800933,2,2,performing arts,rejected
+1005118,3.242947892,0,1,biology,rejected
+1005267,3.469228267,0,1,biology,rejected
+1005266,3.156225012,1,0,education,rejected
+1005176,3.299221032,2,2,education,rejected
+1005177,2,0,0,biology,rejected
+1005263,2.255922237,1,2,english,rejected
+1005178,3.580058703,3,1,performing arts,rejected
+1005260,2.707128753,0,2,chemistry,rejected
+1005268,2.186519937,4,3,biology,rejected
+1005259,2.840007591,3,1,chemistry,rejected
+1005180,3.673778706,3,0,mathematics,rejected
+1005256,3.18760278,5,0,mathematics,rejected
+1005255,2,1,2,performing arts,rejected
+1005181,3.240536421,0,0,chemistry,rejected
+1005253,2.28028543,2,2,chemistry,rejected
+1005182,2.294290782,3,2,education,rejected
+1005183,3.156538943,1,2,chemistry,rejected
+1005258,2.865698886,4,2,education,rejected
+1005269,2.805950027,4,0,education,rejected
+1005175,2.501528532,5,0,english,rejected
+1005271,2.685977717,2,4,business,rejected
+1005291,2.548792242,1,4,english,rejected
+1005290,3.283190937,1,3,education,rejected
+1005289,2.405561255,0,1,english,rejected
+1005288,3.608358851,4,0,chemistry,rejected
+1005287,3.183862466,1,3,psychology,rejected
+1005166,3.2433689,6,0,business,rejected
+1005169,2.631734292,2,3,performing arts,rejected
+1005283,3.407202888,2,0,chemistry,rejected
+1005282,2.482821755,3,3,psychology,rejected
+1005280,2.355672417,0,3,performing arts,rejected
+1005279,2.873517578,4,1,biology,rejected
+1005278,3.011332617,0,4,sociology,rejected
+1005171,3.288369779,4,1,education,rejected
+1005276,2.651357691,1,3,performing arts,rejected
+1005275,2.896280975,1,2,chemistry,rejected
+1005174,3.214182657,3,1,psychology,rejected
+1005272,2.687575437,5,1,biology,rejected
+1005185,2.897227065,2,4,english,rejected
+1005292,3.508344437,1,0,english,rejected
+1005249,2,1,0,psychology,rejected
+1005247,2.494914518,1,3,chemistry,rejected
+1005224,2.676355674,1,1,psychology,rejected
+1005223,2.517944913,1,3,biology,rejected
+1005222,2.795000183,1,3,performing arts,rejected
+1005219,2.338251715,4,3,mathematics,rejected
+1005218,2.961562551,6,1,sociology,rejected
+1005199,3.29023204,2,0,chemistry,rejected
+1005216,2.917501698,1,2,english,rejected
+1005226,2.229277031,0,0,biology,rejected
+1005215,2.807088493,6,1,business,rejected
+1005213,2.776126784,3,2,english,rejected
+1005212,2.601317921,1,4,education,rejected
+1005201,2.738862527,2,1,performing arts,rejected
+1005210,2.981717531,2,1,business,rejected
+1005209,3.041532636,4,1,english,rejected
+1005202,2.702092781,1,4,english,rejected
+1005203,3.686800531,0,1,education,rejected
+1005214,2.550906848,2,0,sociology,rejected
+1005227,3.008340544,5,0,mathematics,rejected
+1005228,3.57475896,4,1,education,rejected
+1005229,3.002599436,2,3,sociology,rejected
+1005246,3.316651576,1,0,business,rejected
+1005186,3.113631743,4,0,psychology,rejected
+1005244,2.983415678,5,0,business,rejected
+1005187,2.848252375,2,2,chemistry,rejected
+1005242,3.602006703,1,1,mathematics,rejected
+1005189,2.587331751,6,2,business,rejected
+1005240,3.110520064,2,1,education,rejected
+1005239,2.626265382,3,0,psychology,rejected
+1005238,2.86295978,5,1,biology,rejected
+1005190,2.368350666,4,3,psychology,rejected
+1005236,2,2,1,performing arts,rejected
+1005191,2.451208167,3,3,chemistry,rejected
+1005234,2.626769395,1,0,mathematics,rejected
+1005192,3.265759314,3,1,biology,rejected
+1005232,2.511640328,4,1,mathematics,rejected
+1005193,3.869414816,0,3,performing arts,rejected
+1005194,2.147433165,1,0,psychology,rejected
+1005248,2.515874271,2,2,sociology,rejected
+1005293,2.587633581,0,2,business,rejected
+1005295,4,2,2,business,rejected
+1005163,3.484842852,2,1,business,rejected
+1005126,3.259008999,0,2,business,rejected
+1005363,2.985578987,3,2,mathematics,rejected
+1005362,2.10708429,3,4,education,rejected
+1005361,3.066249352,2,1,mathematics,rejected
+1005360,2.767024131,0,4,biology,rejected
+1005359,3.403267476,1,0,chemistry,rejected
+1005358,3.060638773,6,1,business,rejected
+1005366,3.295487274,3,2,sociology,rejected
+1005357,3.000571203,2,1,performing arts,rejected
+1005353,2.604311742,5,1,chemistry,rejected
+1005352,3.616251523,3,0,psychology,rejected
+1005131,2.484767984,2,4,biology,rejected
+1005134,2.945835325,2,1,psychology,rejected
+1005348,2.496556259,5,2,psychology,rejected
+1005347,3.087827353,4,0,sociology,rejected
+1005346,3.292592312,2,2,education,rejected
+1005354,2.97805986,2,2,business,rejected
+1005367,3.132626046,2,2,chemistry,rejected
+1005368,2,1,3,english,rejected
+1005369,3.153001548,6,0,education,rejected
+1005119,3.513064079,4,0,business,rejected
+1005386,3.146447979,6,2,business,rejected
+1005385,3.20002851,3,1,english,rejected
+1005384,2.96691478,3,1,chemistry,rejected
+1005120,3.05917134,4,2,performing arts,rejected
+1005382,2.447017541,5,2,biology,rejected
+1005121,2,0,1,business,rejected
+1005204,2.757747076,2,0,sociology,rejected
+1005379,2.708654073,5,2,sociology,rejected
+1005378,2.841310975,3,1,mathematics,rejected
+1005122,2.645341488,0,1,education,rejected
+1005376,2.612656081,3,1,education,rejected
+1005374,3.084438249,3,1,biology,rejected
+1005373,3.397651063,6,1,performing arts,rejected
+1005124,2.905858977,2,1,sociology,rejected
+1005371,2.792493794,3,2,psychology,rejected
+1005125,2.546673183,0,2,performing arts,rejected
+1005345,2,2,2,english,rejected
+1005136,3.118971428,2,3,english,rejected
+1005137,3.626324726,0,0,business,rejected
+1005342,2.72229266,2,0,english,rejected
+1005151,3.349168851,0,0,english,rejected
+1005152,3.143446065,3,2,business,rejected
+1005316,2.832962991,5,2,psychology,rejected
+1005156,3.371837792,2,0,education,rejected
+1005313,2.284454539,6,2,business,rejected
+1005157,3.028751916,0,3,performing arts,rejected
+1005311,3.78425483,3,0,chemistry,rejected
+1005309,3.119267859,3,1,performing arts,rejected
+1005308,2.522814723,0,1,performing arts,rejected
+1005305,2.727411194,2,2,english,rejected
+1005553,2.559952151,0,2,psychology,rejected
+1005161,2.365951643,0,0,chemistry,rejected
+1005302,3.746850283,1,2,business,rejected
+1005301,2.734990914,1,3,english,rejected
+1005162,2,4,1,performing arts,rejected
+1005299,3.310736795,2,0,business,rejected
+1005298,2.509500058,2,2,mathematics,rejected
+1005319,2.950761953,1,2,biology,rejected
+1005117,3.969680439,1,2,sociology,rejected
+1005320,3.06445141,1,1,chemistry,rejected
+1005149,3.390454788,2,2,education,rejected
+1005341,3.229476898,0,4,education,rejected
+1005339,2.584291736,0,2,business,rejected
+1005338,3.527421831,3,1,education,rejected
+1005140,2.861144636,5,1,biology,rejected
+1005336,2.981490274,2,3,psychology,rejected
+1005142,3.655049968,1,2,education,rejected
+1005334,3.589636522,4,0,psychology,rejected
+1005145,3.348831539,4,1,chemistry,rejected
+1005146,3.471950341,2,1,psychology,rejected
+1005331,2.451182196,2,3,psychology,rejected
+1005330,2.573980088,0,3,biology,rejected
+1005329,2.724393893,6,1,psychology,rejected
+1005328,3.287688212,4,0,performing arts,rejected
+1005327,2.986483526,3,2,education,rejected
+1005326,2.378466675,1,4,biology,rejected
+1005325,3.999669289,1,0,mathematics,rejected
+1005324,2.599381763,6,3,business,rejected
+1005321,2.672330799,1,2,sociology,rejected
+1005380,2.486295296,2,0,english,rejected
